@@ -2,7 +2,7 @@ getgenv().Key = 'Key Here'
 repeat wait()
 until game:IsLoaded()
 wait()
-local TableChat = {"X2 HAWP | COMMUNITY","Auto Farm Bounty"}
+local TableChat = {"X2 HAWP | COMMUNITY"}
 spawn(function()
     while wait() do 
         pcall(function()
